@@ -18,3 +18,5 @@ Automated tests: if a new class is added (Python or C++), interface of that clas
 Documentation: For any new feature, explain what it does and how to use it. Write the documentation in a relevant space (Github, Confluence, etc.).
 
 Testing on real hardware: if the changed or added code is used with the real hardware.
+
+TEST
